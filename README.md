@@ -2,7 +2,9 @@
 
 # Hi, I am Ankon
 
-Want to grow my career as a web developer. I am an intermediate-level expert in HTML, CSS, and JavaScript. I use Bootstrap and Tailwind as my CSS framework.
+Currently, I am Studying Computer Science and Engineering. My passion for problem-solving has bought me to Khulna University of Engineering and Technology. But I do not want to stop my journey here and desperately want to learn more about Math and Programming.
+
+That's why now I am looking one step further and searching for an opportunity to grow my carrier in the job field. I am an intermediate-level expert in HTML, CSS, and JavaScript. I use Bootstrap and Tailwind as my CSS framework.
 
 Skills: REACT / JS / HTML / CSS / BOOTSTRAP / TAILWIND
 
