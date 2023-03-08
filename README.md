@@ -1,4 +1,4 @@
-![I am Ankon]([https://drive.google.com/file/d/1fZLhKeH2dHEu5ilxN2osTlDBHthFIB-j/view?usp=share_link](https://drive.google.com/file/d/1fZLhKeH2dHEu5ilxN2osTlDBHthFIB-j/view?usp=sharing))
+![I am Ankon](https://github.com/ankonroy/ankonroy/blob/main/Blue%20Modern%20Gradient%20Technology%20LinkedIn%20Banner.png)
 
 # Hi, I am Ankon
 
