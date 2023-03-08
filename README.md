@@ -1,4 +1,4 @@
-![I am Ankon](https://media.licdn.com/dms/image/D4E16AQHr5nEDPC_uHQ/profile-displaybackgroundimage-shrink_350_1400/0/1671614832415?e=1677715200&v=beta&t=rnhvtSUvRFrFCo92vBUdfH1AZ68Ca1ImVWJmdKp9_Jk)
+![I am Ankon](https://drive.google.com/file/d/1fZLhKeH2dHEu5ilxN2osTlDBHthFIB-j/view?usp=share_link)
 
 # Hi, I am Ankon
 
