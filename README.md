@@ -65,7 +65,7 @@ I specialize in building scalable web applications, designing REST APIs, and tak
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ankonroy&show_icons=true&theme=radical&hide_border=true" alt="Ankon's GitHub Stats" />
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=ankonroy&theme=radical&hide_border=true" alt="Ankon's GitHub Streak" />
+  <!-- <img src="https://streak-stats.demolab.com/?user=ankonroy&theme=radical&hide_border=true" alt="Ankon's GitHub Streak" /> -->
 </div>
 
 ---
