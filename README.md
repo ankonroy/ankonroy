@@ -1,33 +1,82 @@
-![I am Ankon](https://github.com/ankonroy/ankonroy/blob/main/Blue%20Modern%20Gradient%20Technology%20LinkedIn%20Banner.png)
+![Ankon Roy Banner](./banner.png)
 
-# Hi, I am Ankon
+# Hi there, I'm Ankon Roy 👋
 
-Currently, I am Studying Computer Science and Engineering. My passion for problem-solving has bought me to Khulna University of Engineering and Technology. But I do not want to stop my journey here and desperately want to learn more about Math and Programming.
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-007ACC?style=for-the-badge&logo=render&logoColor=white)](https://my-portfolio-2-1t64.onrender.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankon_Roy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankon-roy)
+[![Email](https://img.shields.io/badge/Email-ankonroy31416@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankonroy31416@gmail.com)
 
-That's why now I am looking one step further and searching for an opportunity to grow my carrier in the job field. I am an intermediate-level expert in HTML, CSS, and JavaScript. I use Bootstrap and Tailwind as my CSS framework.
+---
 
-Skills: REACT / JS / HTML / CSS / BOOTSTRAP / TAILWIND
+## 🚀 About Me
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning React 
-- 📫 How to reach me: ankonroy31416@gmail.com 
-- ⚡ Fun fact: Never let your computer know that you are in a hurry. 
+I am a **High-Agency Full-Stack Engineer** and final-year **Computer Science & Engineering** undergraduate at **KUET** (Khulna University of Engineering & Technology).
 
+I specialize in building performant web applications, designing scalable REST APIs, and taking features from zero to production. With experience as a **Frontend Developer Intern at Kuchtoh Technologies** and a solid computer science/competitive programming foundation, I move fast, solve complex logic issues, and take extreme ownership of codebases.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ankonroy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ankon-roy/)  
+- 🛠 **Core Focus:** React, Next.js, TypeScript, Node.js, Express, REST APIs, Database Design.
+- ⚡ **Engineering Mindset:** High agency, clean architecture, fast iteration, and sprint backlog relief.
+- 🎯 **Current Focus:** Open for remote part-time contracts, freelance engineering roles, and startup backlog relief (15–20 hrs/week).
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ankonroy)](https://github.com/ryo-ma/github-profile-trophy)
+## 🛠 Tech Stack & Tools
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankonroy)](https://github.com/anuraghazra/github-readme-stats)
+### Frontend Development
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5/CSS3](https://img.shields.io/badge/HTML5%2FCSS3-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ankonroy&show_icons=true&count_private=true)  
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-0055DA?style=flat-square&logo=postman&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ankonroy)  
+### CS Fundamentals & Languages
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git & GitHub](https://img.shields.io/badge/Git%2FGitHub-F05032?style=flat-square&logo=git&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-![GitHub metrics](https://metrics.lecoq.io/ankonroy)  
+---
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=ankonroy)  
+## 💼 Experience & Education
 
-![Profile views](https://gpvc.arturio.dev/ankonroy)  
+- **Former Frontend Developer Intern** @ *Kuchtoh Technologies*
+  - Built responsive frontend components, integrated REST APIs, and optimized UI rendering pipelines in a production codebase.
+- **B.Sc. in Computer Science & Engineering** @ *KUET (Khulna University of Engineering & Technology)*
+  - Final-year undergraduate focusing on software engineering, database systems, distributed architectures, and algorithms.
+
+---
+
+## 🏆 Problem Solving & Competitive Programming
+
+I actively solve algorithmic problems to keep my logic sharp and debugging quick:
+
+- **LeetCode:** Active problem solver focusing on Data Structures, Dynamic Programming, and Graph Algorithms.
+- **Codeforces & CodeChef:** Competitive programming contestant.
+
+---
+
+## 📊 GitHub Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ankonroy&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Ankon's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankonroy&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+## 📬 Let's Connect & Build
+
+Whether you need a full-stack engineer to take ownership of a feature or a reliable contractor to clear out sprint backlog items:
+
+- **Portfolio:** [my-portfolio-2-1t64.onrender.com](https://my-portfolio-2-1t64.onrender.com)
+- **LinkedIn:** [linkedin.com/in/ankon-roy](https://www.linkedin.com/in/ankon-roy)
+- **Email:** [ankonroy31416@gmail.com](mailto:ankonroy31416@gmail.com)
