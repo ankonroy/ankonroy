@@ -23,7 +23,7 @@ I specialize in building scalable web applications, designing REST APIs, and tak
 * 🛠️ **Beyond Web:** I pick up new tools by building real projects with them, from compilers to IoT.
 * 🏆 **Competitive Programming:** Former competitive programmer and ICPC Dhaka Regionalist (2025).
 * 💼 **Experience:** Past Frontend Developer Intern at Kuchtoh Technologies, where I built responsive components and integrated REST APIs in a production codebase.
-* 🎯 **Currently:** Open to freelance opportunities and startup backlog relief.
+<!-- * 🎯 **Currently:** Open to freelance opportunities and startup backlog relief. -->
 
 ---
 
