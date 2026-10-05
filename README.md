@@ -1,3 +1,5 @@
+![Ankon Roy Banner](./banner.png)
+
 <div align="center">
 
 # Hi there, I'm Ankon Roy 👋
@@ -12,12 +14,15 @@
 
 ## 🚀 About Me
 
-I'm a Full-Stack Developer and final-year Computer Science student at KUET. I love turning ideas into working products. Whether it's a scalable web application, a machine learning model, or an IoT system, I pick up new tools by building real projects with them.
+I'm a Full-Stack Developer and final-year Computer Science student at KUET. I love turning ideas into working products. 
 
-* 🎓 **Education:** Final-year CS undergrad at Khulna University of Engineering & Technology.
+I specialize in building scalable web applications, designing REST APIs, and taking features from zero to production. I learn best by building, so my experience isn't just limited to web development—I've also built projects in machine learning, embedded systems, and blockchain.
+
+* 🎓 **Education:** Final-year CS undergrad at KUET.
 * 💻 **Core Focus:** Full-stack web development (React, Next.js, Node.js, Spring Boot, Laravel).
-* 🛠️ **Beyond Web:** I've also built projects in machine learning, compilers, embedded systems, and blockchain. 
-* 💼 **Experience:** Past Frontend Developer Intern at Kuchtoh Technologies, where I built responsive components and integrated REST APIs.
+* 🛠️ **Beyond Web:** I pick up new tools by building real projects with them, from compilers to IoT.
+* 🏆 **Competitive Programming:** Former competitive programmer and ICPC Dhaka Regionalist (2025).
+* 💼 **Experience:** Past Frontend Developer Intern at Kuchtoh Technologies, where I built responsive components and integrated REST APIs in a production codebase.
 * 🎯 **Currently:** Open to freelance opportunities and startup backlog relief.
 
 ---
@@ -52,21 +57,6 @@ I'm a Full-Stack Developer and final-year Computer Science student at KUET. I lo
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
----
-
-## 📌 Featured Projects
-
-Here are a few projects I'm proud of. Check out my repositories for more!
-
-| Project | What it is | Tech Stack |
-|---|---|---|
-| **[B_Worm](https://github.com/ankonroy/B_Worm)** | Community book exchange and donation platform with role-based access and an admin moderation area. | Java, Spring Boot, Spring Security, PostgreSQL, Docker |
-| **[Drink_Panda](https://github.com/ankonroy/Drink_Panda)** | Juice e-commerce app with cart, order tracking, admin panel, and bKash/Nagad payment integration. | Next.js, TypeScript, Tailwind, Laravel, MySQL |
-| **[Go_Game](https://github.com/ankonroy/Go_Game)** | Go game with a Pygame interface and three AI agents (Minimax, MCTS, and a residual-CNN policy/value network). | Python, Pygame, TensorFlow, NumPy |
-| **[Cobra_language](https://github.com/ankonroy/Cobra_language)** | A small programming language with its own syntax and a tree-walking interpreter. | C, Flex, Bison |
-| **[Note_App_Swift](https://github.com/ankonroy/Note_App_Swift)** | iOS notes app with authentication and cloud-synced notes. | SwiftUI, Firebase |
-| **[ERC20_project](https://github.com/ankonroy/ERC20_project)** | Capped, burnable ERC-20 token with a miner block reward. | Solidity, Hardhat, OpenZeppelin |
 
 ---
 
